@@ -1,13 +1,4 @@
-# 26thmay_B1_DEVOPS
-
-#task1 screenshot
-
-![task1](https://user-images.githubusercontent.com/85029049/120076853-472aa700-c0c5-11eb-974b-e58d46a30b63.png)
-
-
-#task1 file
-
-```cd Desktop/
+cd Desktop/
 mkdir -p A/{B/{D/K/N/LNB,E/K/N/LNB,E/J/M/LNB,F/J/M/LNB,F/I/N/LNB},C/{G/I/N/LNB,G/L/M/LNB,H/L/M/LNB}}
 
 .:
@@ -108,4 +99,3 @@ M
 LNB
 
 ./A/C/H/L/M/LNB:
-```
