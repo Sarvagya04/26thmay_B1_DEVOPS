@@ -20,12 +20,12 @@
 
 # task2 Text File 
 
-...
+```
 sudo vim /etc/ssh/sshd_config
 systemctl restart sshd.service
 netstst -ntpl
 ssh -p 22000 sarvagya@192.168.43.218
 ssh -p 22 sarvagya@192.168.43.218
-...
+```
 
 
