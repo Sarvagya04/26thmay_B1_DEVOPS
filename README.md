@@ -14,12 +14,12 @@
 
 
 # task1 Textfile
-...
+```
 sudo adduser welcome
 ls /home/
 sudo userdel -r welcome
 ls /home/
-...
+```
 
 
 # task2.1 Screenshot
@@ -29,13 +29,13 @@ ls /home/
 
 
 # task2.2 Textfile
-...
+```
 sudo adduser welcome
 ls /home/
 sudo usermod -s /bin/dash welcome
 su - welcome
 echo $SHELL
-...
+```
 
 
 
