@@ -1,3 +1,4 @@
+
 # task1 Screenshot
 
 ![task2 day11](https://user-images.githubusercontent.com/85029049/121677548-a0d29e80-cad3-11eb-8a77-3550d8d46be8.png)
@@ -43,7 +44,7 @@ ls
 sudo vim 000-default.conf
    --- Change Document root to /root/new/
    --- :wq
-systemctl restart apach
-
+systemctl restart apache2
 ```
+
 
