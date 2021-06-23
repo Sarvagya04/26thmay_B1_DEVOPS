@@ -25,5 +25,47 @@ umount googledrive
 Amazon aws > S3 > Create Bucket
 ```
 # Task3 ScreenShot
+![task3 day13](https://user-images.githubusercontent.com/85029049/123079010-2a219380-d439-11eb-95ce-10912373ae68.png)
+
+# Task4 ScreenShot
+![task4  day13](https://user-images.githubusercontent.com/85029049/123079112-402f5400-d439-11eb-9131-8a4dd29894bc.png)
+
+# Task5 ScreenShot
+![task day13](https://user-images.githubusercontent.com/85029049/123079242-5e954f80-d439-11eb-9ab4-c0eae437fbd6.png)
+
+# Task5 TextFile
+```
+ALB > Listeners > View/Edit Rules > Target 1 [70] & Target 2 [30]
+```
+
+# Task6 TextFile
+```
+For Target 1
+
+sudo apt install apache2
+systemctl status apache2
+
+For Target 2
+
+sudo apt install apache2
+systemctl status apache2
+```
+# Task7 TextFile
+```
+sudo -i
+echo "" > index.html
+vim index.html
+  - Hi I am Target 1
+  -:wq
+```
+# Task8 TextFile
+
+```
+sudo -i
+echo "" > index.html
+vim index.html
+  - Hi I am Target 2
+  -:wq
+```
 
 
